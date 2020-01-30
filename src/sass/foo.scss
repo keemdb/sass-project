@@ -1,4 +1,5 @@
 $site_max_width: 960px;
+$site_min_width: 320px;
 $font_color: #333;
 $link_color: #00c;
 $font_family: Arial, sans-serif;
@@ -22,4 +23,5 @@ body {
 #main {
   width: 100%;
   max-width: $site_max_width;
+  min-width: $site_min_width;
 }

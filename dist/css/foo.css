@@ -1,10 +1,1 @@
-body {
-  color: #333;
-  font-size: 16px;
-  font-family: Arial, sans-serif;
-  font-font-weight: bold;
-  line-height: 125%; }
-
-#main {
-  width: 100%;
-  max-width: 960px; }
+body{color:#333;font-size:16px;font-family:Arial,sans-serif;font-font-weight:bold;line-height:125%}#main{width:100%;max-width:960px;min-width:320px}
