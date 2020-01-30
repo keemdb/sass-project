@@ -24,4 +24,7 @@ body {
   width: 100%;
   max-width: $site_max_width;
   min-width: $site_min_width;
+  a {
+    size: $font_size;
+  }
 }
